@@ -1,0 +1,25 @@
+{
+  "name": "know",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SupercietyHQ/know.git"
+  },
+  "author": {
+    "name": "Micha Vie",
+    "email": "micha@freeiam.com",
+    "url": "https://michavie.com"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/SupercietyHQ/know#readme"
+}
