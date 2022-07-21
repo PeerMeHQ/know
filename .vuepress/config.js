@@ -7,7 +7,7 @@ module.exports = {
       {
         title: 'General',
         collapsable: false,
-        children: prefix('general', ['overview']),
+        children: prefix('general', ['overview', 'philosophy']),
       },
       {
         title: 'Developers',
@@ -46,5 +46,5 @@ module.exports = {
 }
 
 function prefix(prefix, children) {
-  return children.map(child => `${prefix}/${child}`)
+  return children.map((child) => `${prefix}/${child}`)
 }
