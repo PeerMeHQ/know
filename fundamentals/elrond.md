@@ -1,3 +1,0 @@
-# Elrond
-
-coming soon
