@@ -30,8 +30,12 @@ The available methods are
 
 ## Set an Avatar
 
-Similar to [SUPERIDs](/basics/superids.md), Fellowships can have an Avatar too. In fact, they even use the same smart contract
+Similar to [SUPERIDs](/basics/superids.md), Fellowships can have an NFT Avatar too. In fact, they even use the same smart contract. In order to set or update a Fellowship's Avatar, create a proposal with a **Contract Call** action and select the **SUPERID** smart contract from the dropdown list:
+
+![set avatar demo](/images/set-avatar-demo.png)
+
+At the time of writing, the transaction to set an Avatar requires a payment of 50 [$SUPER](https://superciety.com/get-super). If your Fellowship is not a proud owner of [$SUPER](https://superciety.com/get-super) yet, you can easily deposit some into your Fellowship's [Vault](/basics/vault.md).
 
 ## Add Social Links
 
-Social links help users to easily find official social platforms of your Fellowship. You can add & update them using a proposal [Ticket](/basics/actions.md#tickets) of the type 'Fellowship Socials Update'.
+Social links help users quickly find the official social platforms of your Fellowship. You can add & update them using a proposal [Ticket](/basics/actions.md#tickets) of the type 'Fellowship Socials Update'.
