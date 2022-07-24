@@ -34,8 +34,10 @@ Similar to [SUPERIDs](/basics/superids.md), Fellowships can have an NFT Avatar t
 
 ![set avatar demo](/images/set-avatar-demo.png)
 
-At the time of writing, the transaction to set an Avatar requires a payment of 50 [$SUPER](https://superciety.com/get-super). If your Fellowship is not a proud owner of [$SUPER](https://superciety.com/get-super) yet, you can easily deposit some into your Fellowship's [Vault](/basics/vault.md).
+At the time of writing, the transaction to set an Avatar requires a payment of 50 [$SUPER](https://superciety.com/get-super). If your Fellowship is not a proud owner of [$SUPER](https://superciety.com/get-super) yet, you can easily [deposit](/basics/vault.md#deposit) some into your Fellowship's [Vault](/basics/vault.md).
 
 ## Add Social Links
 
-Social links help users quickly find the official social platforms of your Fellowship. You can add & update them using a proposal [Ticket](/basics/actions.md#tickets) of the type 'Fellowship Socials Update'.
+Social links help users quickly find the official social platforms of your Fellowship. You can add & update them using a proposal [Ticket](/basics/actions.md#tickets) of the type 'Fellowship Socials Update':
+
+![set social links demo](/images/set-social-links-demo.png)
