@@ -28,9 +28,11 @@ The available methods are
 - NFT [existing] - Use an existing [NFT](https://docs.elrond.com/developers/nft-tokens/) collection for voting
 - MultiSig - Continue without a token and vote based on [roles & permissions](/basics/permissions.md)
 
+To ensure your DAO operates at the [highest level of security standards](/basics/security.md#transferring-token-management-rights), we require publicly visible DAOs to transfer token management rights to their Fellowship smart contracts.
+
 ## Set an Avatar
 
-Similar to [SUPERIDs](/basics/superids.md), Fellowships can have an NFT Avatar too. In fact, they even use the same smart contract. In order to set or update a Fellowship's Avatar, create a proposal with a **Contract Call** action and select the **SUPERID** smart contract from the dropdown list:
+Similar to [SUPERIDs](/basics/superids.md), Fellowships can have an NFT Avatar too. In fact, they even use the same smart contract. In order to set or update a Fellowship's Avatar, create a proposal with a [Contract Call](/basics/actions.md#call-contract) action and select the **SUPERID** smart contract from the dropdown list:
 
 ![set avatar demo](/images/set-avatar-demo.png)
 
@@ -41,3 +43,14 @@ At the time of writing, the transaction to set an Avatar requires a payment of 5
 Social links help users quickly find the official social platforms of your Fellowship. You can add & update them using a proposal [Ticket](/basics/actions.md#tickets) of the type 'Fellowship Socials Update':
 
 ![set social links demo](/images/set-social-links-demo.png)
+
+## Register a Username (Herotag)
+
+Reserving a username (aka. Herotag) for the Fellowship smart contract is fairly easy using a proposal [Contract Call](/basics/actions.md#call-contract) action:
+
+1. Create a new proposal and add a [Contract Call](/basics/actions.md#call-contract) action
+2. Select your Fellowship smart contract in the dropdown field
+3. Select the 'DNS Register' function
+4. Enter the Fellowship smart contracts address and choose a username of your choice
+5. Add a payment of xx EGLD, which is required by the protocol
+6. Propose and execute the proposal

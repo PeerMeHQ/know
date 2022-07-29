@@ -10,6 +10,27 @@ module.exports = {
         children: prefix('general', ['overview', 'philosophy']),
       },
       {
+        title: 'Basics',
+        collapsable: false,
+        children: prefix('basics', [
+          // 'superids',
+          // 'fellowships',
+          // 'permissions',
+          // 'actions',
+          // 'vault',
+          // 'boosting',
+          // 'security',
+        ]),
+      },
+      {
+        title: 'Features',
+        collapsable: false,
+        children: prefix('features', [
+          // 'events',
+          // 'log',
+        ]),
+      },
+      {
         title: 'Developers',
         collapsable: false,
         children: prefix('developers', ['tech-stack', 'smart-contracts', 'clean-code']),
