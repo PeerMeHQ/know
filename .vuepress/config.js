@@ -19,7 +19,7 @@ module.exports = {
           // 'actions',
           // 'vault',
           // 'boosting',
-          // 'security',
+          'security',
         ]),
       },
       {
