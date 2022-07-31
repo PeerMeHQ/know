@@ -15,7 +15,7 @@ module.exports = {
         children: prefix('basics', [
           // 'superids',
           // 'fellowships',
-          // 'permissions',
+          'permissions',
           // 'actions',
           // 'vault',
           // 'boosting',

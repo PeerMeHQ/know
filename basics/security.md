@@ -1,6 +1,6 @@
 # 🔒 Security
 
-The society of tomorrow requires a solid foundation of security standards. For this, we have established rules and guidelines to make Fellowship DAOs safe to use and participate for all members.
+The society of tomorrow requires a solid foundation of security standards. For this, we have established rules and guidelines to make Fellowship DAOs safe to use & participate for all members.
 
 ## Token Management Rights
 
