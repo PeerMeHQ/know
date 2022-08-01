@@ -10,7 +10,7 @@ Roles & Permissions are fully implemented on smart contract level, but still req
 
 A role is a tag used to group users together. Role names can be freely chosen by your Fellowship apart from the pre-defined **leader** role which is automatically assigned to the Fellowship creator.
 
-For the naming of role names, we suggest adhering to the widely used [camel case](https://en.wikipedia.org/wiki/Camel_case) convention in singular word format. Here are some examples, so you don't spend time researching it:
+For the naming of roles, we suggest adhering to the widely used [camel case](https://en.wikipedia.org/wiki/Camel_case) convention in singular word format. Here are some examples, so you don't spend time researching it:
 
 - **leader** (singular; all lowercase)
 - beta**T**ester (two words; no space; first word lowercase, capitalize second word)
