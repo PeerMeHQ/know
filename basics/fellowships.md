@@ -2,7 +2,13 @@
 
 > Fellowship DAOs are next-level communities that share a common goal
 
-DAOs in Web3 are self-sufficient groups of people managed by a smart contract. They operate on the blockchain which ensures maximum trust, transparency & verifiability.
+[DAOs](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization) in Web3 are self-sufficient groups of people managed by a smart contract. They operate on the blockchain which ensures maximum trust, transparency & verifiability.
+
+If you decide to create & operate your DAO in Superciety, we do all the heavy lifting for you: we create a dedicated smart contract for you and register it inside Superciety, so you and other DAO members can benefit from all our simple tools & features.
+
+::: tip
+Since your Fellowship DAO is based on **its own smart contract**, Superciety does not have any more access or control over voting processes than you do.
+:::
 
 ## Create a DAO
 
@@ -50,7 +56,7 @@ Reserving a username (aka. Herotag) for the Fellowship smart contract is fairly 
 
 1. Create a new proposal and add a [Contract Call](/basics/actions.md#call-contract) action
 2. Select your Fellowship smart contract in the dropdown field
-3. Select the 'DNS Register' function
-4. Enter the Fellowship smart contracts address and choose a username of your choice
-5. Add a payment of xx EGLD, which is required by the protocol
+3. Select the 'Register Dns' function
+4. Enter the Fellowship smart contracts address
+5. Choose a username (herotag) of your choice (**important!** make sure to add the **.elrond** suffix: myusername.elrond)
 6. Propose and execute the proposal

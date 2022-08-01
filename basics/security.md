@@ -2,6 +2,10 @@
 
 The society of tomorrow requires a solid foundation of security standards. For this, we have established rules and guidelines to make Fellowship DAOs safe to use & participate for all members.
 
+::: tip
+Since your Fellowship DAO is based on **its own smart contract**, Superciety does not have any more access or control over voting processes than you do.
+:::
+
 ## Token Management Rights
 
 **Requirement**: To start and run a public Fellowship DAO with an existing token, we require the token owner to transfer token management rights to the Fellowship smart contract. To make this easy, we provide a dedicated user interface to complete the transfer.
