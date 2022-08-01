@@ -50,7 +50,7 @@ Social links help users quickly find the official social platforms of your Fello
 
 ![set social links demo](/images/set-social-links-demo.png)
 
-## Register a Username (Herotag)
+<!-- ## Register a Username (Herotag)
 
 Reserving a username (aka. Herotag) for the Fellowship smart contract is fairly easy using a proposal [Contract Call](/basics/actions.md#call-contract) action:
 
@@ -59,4 +59,4 @@ Reserving a username (aka. Herotag) for the Fellowship smart contract is fairly 
 3. Select the 'Register Dns' function
 4. Enter the Fellowship smart contracts address
 5. Choose a username (herotag) of your choice (**important!** make sure to add the **.elrond** suffix: myusername.elrond)
-6. Propose and execute the proposal
+6. Propose and execute the proposal -->
