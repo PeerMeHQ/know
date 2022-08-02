@@ -14,7 +14,7 @@ module.exports = {
         collapsable: false,
         children: prefix('basics', [
           // 'superids',
-          // 'fellowships',
+          'fellowships',
           'permissions',
           // 'actions',
           // 'vault',
