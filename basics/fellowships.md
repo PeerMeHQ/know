@@ -60,3 +60,11 @@ Reserving a username (aka. Herotag) for the Fellowship smart contract is fairly 
 4. Enter the Fellowship smart contracts address
 5. Choose a username (herotag) of your choice (**important!** make sure to add the **.elrond** suffix: myusername.elrond)
 6. Propose and execute the proposal -->
+
+## Register Custom Smart Contracts
+
+Fellowships can register their own Smart Contracts to allow users to easily interact with them. The registration can be done by creating a Ticket of type **Contract Register** via a Proposal:
+
+![register contract demo](/images/register-contract-demo.png)
+
+Once verified, users can then add the Smart Contract to their Favorites on the Settings page and find them in the selection field of the Contract Call proposal action.
