@@ -68,3 +68,19 @@ Fellowships can register their own Smart Contracts to allow users to easily inte
 ![register contract demo](/images/register-contract-demo.png)
 
 Once verified, users can then add the Smart Contract to their Favorites on the Settings page and find them in the selection field of the Contract Call proposal action.
+
+## Get Verified
+
+Superciety verifies Fellowships to further ensure safety for our users when interacting with Fellowship DAOs in the ecosystem. They are more likely to appear on Explore pages.
+
+> Verified Fellowships are displayed with a blue badge next to their name.
+
+Requirements for Fellowship DAO verification:
+
+- Must have an Avatar set
+- Must have an official website set
+- Must be public at the time of verification
+- Must have an active community voting on their proposals
+- Must not have previous violations of Superciety Rules
+
+We reserve the right to change requirements and verification statuses any time without notice.
