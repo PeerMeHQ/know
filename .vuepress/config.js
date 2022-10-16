@@ -18,7 +18,7 @@ module.exports = {
     ['meta', { prefix: ogprefix, property: 'twitter:title', content: title }],
     ['meta', { prefix: ogprefix, property: 'og:type', content: 'article' }],
     ['meta', { prefix: ogprefix, property: 'og:description', content: description }],
-    ['meta', { prefix: ogprefix, property: 'og:image', content: '/og-image.png' }],
+    ['meta', { prefix: ogprefix, property: 'og:image', content: '/images/og.png' }],
   ],
   themeConfig: {
     logo: '/images/logo.png',
