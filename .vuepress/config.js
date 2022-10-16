@@ -1,5 +1,25 @@
+let ogprefix = 'og: http://ogp.me/ns#'
+let title = 'Knowledge Base - Superciety'
+let description = 'Everything you need to know about services in Superciety.'
+
 module.exports = {
-  title: 'Knowledge Base',
+  title,
+  description,
+  head: [
+    ['link', { rel: 'icon', href: '/icon-192x192.png' }],
+    ['link', { rel: 'manifest', href: '/manifest.json' }],
+    ['meta', { name: 'theme-color', content: '#7F8FA6' }],
+    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+    ['link', { rel: 'apple-touch-icon', href: '/icon-192x192.png' }],
+    ['meta', { name: 'msapplication-TileImage', content: '/icon-192x192.png' }],
+    ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
+    ['meta', { prefix: ogprefix, property: 'og:title', content: title }],
+    ['meta', { prefix: ogprefix, property: 'twitter:title', content: title }],
+    ['meta', { prefix: ogprefix, property: 'og:type', content: 'article' }],
+    ['meta', { prefix: ogprefix, property: 'og:description', content: description }],
+    ['meta', { prefix: ogprefix, property: 'og:image', content: '/og-image.png' }],
+  ],
   themeConfig: {
     logo: '/images/logo.png',
     nav: [{ text: 'Superciety.com', link: 'https://superciety.com' }],
@@ -42,16 +62,6 @@ module.exports = {
     repo: 'superciety/know',
     editLinks: true,
   },
-  head: [
-    ['link', { rel: 'icon', href: '/icon-192x192.png' }],
-    ['link', { rel: 'manifest', href: '/manifest.json' }],
-    ['meta', { name: 'theme-color', content: '#7F8FA6' }],
-    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-    ['link', { rel: 'apple-touch-icon', href: '/icon-192x192.png' }],
-    ['meta', { name: 'msapplication-TileImage', content: '/icon-192x192.png' }],
-    ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
-  ],
   plugins: [
     '@vuepress/active-header-links',
     '@vuepress/back-to-top',
