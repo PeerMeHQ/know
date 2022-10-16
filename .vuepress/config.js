@@ -1,5 +1,6 @@
 let ogprefix = 'og: http://ogp.me/ns#'
-let title = 'Knowledge Base - Superciety'
+let title = 'Knowledge Base'
+let titleFull = 'Knowledge Base - Superciety'
 let description = 'Everything you need to know about services in Superciety.'
 
 module.exports = {
@@ -14,8 +15,8 @@ module.exports = {
     ['link', { rel: 'apple-touch-icon', href: '/icon-192x192.png' }],
     ['meta', { name: 'msapplication-TileImage', content: '/icon-192x192.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
-    ['meta', { prefix: ogprefix, property: 'og:title', content: title }],
-    ['meta', { prefix: ogprefix, property: 'twitter:title', content: title }],
+    ['meta', { prefix: ogprefix, property: 'og:title', content: titleFull }],
+    ['meta', { prefix: ogprefix, property: 'twitter:title', content: titleFull }],
     ['meta', { prefix: ogprefix, property: 'og:type', content: 'article' }],
     ['meta', { prefix: ogprefix, property: 'og:description', content: description }],
     ['meta', { prefix: ogprefix, property: 'og:image', content: '/images/og.png' }],
