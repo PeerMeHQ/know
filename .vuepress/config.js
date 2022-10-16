@@ -7,7 +7,7 @@ module.exports = {
       {
         title: 'General',
         collapsable: false,
-        children: prefix('general', ['overview', 'philosophy', 'faq', 'support']),
+        children: prefix('general', ['overview', 'philosophy', 'support']),
       },
       {
         title: 'Basics',
