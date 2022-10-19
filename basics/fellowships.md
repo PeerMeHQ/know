@@ -36,7 +36,15 @@ The available methods are
 
 To ensure your DAO operates at the [highest level of security standards](/basics/security.md#transferring-token-management-rights), we require publicly visible DAOs to transfer token management rights to their Fellowship smart contracts.
 
-## Set an Avatar
+## Set an Logo/Avatar
+
+![fellowship logo avatar demo](/images/fellowship-logo-avatar.png)
+
+### [Logo] Upload any Image
+
+To upload a Logo, create a proposal with a Ticket of Type 'Fellowship Logo Update' attached. After you proposed the Ticket and executed the Ticket, the Logo will be shown.
+
+### [Avatar] Use an existing NFT
 
 Similar to [SUPERIDs](/basics/superids.md), Fellowships can have an NFT Avatar too. In fact, they even use the same smart contract. In order to set or update a Fellowship's Avatar, create a proposal with a [Contract Call](/basics/actions.md#call-contract) action and select the **SUPERID** smart contract from the dropdown list:
 
