@@ -31,11 +31,11 @@ module.exports = {
         children: prefix('general', ['overview', 'philosophy', 'support']),
       },
       {
-        title: 'Basics',
+        title: 'DAOs',
         collapsable: false,
-        children: prefix('basics', [
+        children: prefix('daos', [
           // 'superids',
-          'fellowships',
+          'get-started',
           'permissions',
           // 'actions',
           // 'vault',
