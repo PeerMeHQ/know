@@ -12,7 +12,7 @@ Since your Fellowship DAO is based on **its own smart contract**, Superciety doe
 
 ## Create a DAO
 
-Creating a Fellowship DAO is a matter of a few minutes. All you need is an existing Elrond wallet and a little bit of [$SUPER](https://superciety.com/get-super).
+Creating a Fellowship DAO is a matter of a few minutes. All you need is an existing MultiversX wallet and a little bit of [$SUPER](https://superciety.com/get-super).
 
 To quickly get started:
 

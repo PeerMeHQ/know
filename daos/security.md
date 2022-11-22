@@ -10,7 +10,7 @@ Since your Fellowship DAO is based on **its own smart contract**, Superciety doe
 
 **Requirement**: To start and run a public Fellowship DAO with an existing token, we require the token owner to transfer token management rights to the Fellowship smart contract. To make this easy, we provide a dedicated user interface to complete the transfer.
 
-**Reason**: On Elrond, a token manager (there can only be one per token) has complete control over their token. This means they can not only decide to freeze & wipe accounts but also freely mint & burn tokens as they like. A single person that can freely mint vote tokens out of thin air is a hazard to all members of a DAO and defeats all purposes of it as well.
+**Reason**: On MultiversX, a token manager (there can only be one per token) has complete control over their token. This means they can not only decide to freeze & wipe accounts but also freely mint & burn tokens as they like. A single person that can freely mint vote tokens out of thin air is a hazard to all members of a DAO and defeats all purposes of it as well.
 
 **Consequences**: Fellowship DAOs that don't have ownership and management rights for their vote token will periodically be set to operate in Private Mode. Members will also be informed about the risks.
 
