@@ -2,10 +2,6 @@
 
 Roles & permissions allow you to set up your Fellowship DAO how you want it to operate. They provide enough flexibility to adapt to many different kinds of real-world use cases you may need.
 
-::: warning Work in progress
-Roles & Permissions are fully implemented on smart contract level, but still require dedicated user interfaces to ease their management. This is currently work in progress.
-:::
-
 ## Role
 
 A role is a tag used to group users together. Role names can be freely chosen by your Fellowship apart from the pre-defined **leader** role which is automatically assigned to the Fellowship creator.
