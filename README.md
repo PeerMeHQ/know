@@ -2,8 +2,8 @@
 home: true
 heroImage: /images/logo.png
 heroText: Superciety Knowledge Base
-tagline: Building a better society on the Elrond blockchain
+tagline: Everything you need to know about Superciety
 actionText: Dive in →
 actionLink: /general/overview/
-footer: Superciety is created by Superhuman
+footer: Built on MultiversX blockchain
 ---
