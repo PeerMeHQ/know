@@ -89,6 +89,7 @@ Requirements for Fellowship DAO verification:
 - Must have an official website set
 - Must be public at the time of verification
 - Must have an active community voting on their proposals
+- Must have been active over the last 30 days
 - Must have leaders with fully set up SUPERIDs
 - Must not have previous violations of Superciety Rules
 
