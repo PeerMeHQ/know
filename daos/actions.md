@@ -1,17 +1,23 @@
 # ▶️ Actions
 
-## Send EGLD
+Proposals can have optional Action attached. These include blockchain payments, external smart contract calls, roles & permission management, and Tickets with off-chain side effects.
 
-coming soon.
+The attached actions can only be executed if the proposal succeeds.
 
-## Send Tokens
+## Payments
 
-coming soon.
+A payment action refers to any assets being transferred from the DAO smart contract to another wallet.
 
 ## Call Contract
 
-coming soon.
+Contract call actions allow you to craft & execute on-chain transaction with any data to any destination address, which usually is a smart contract.
+
+In order to use your custom smart contract, you may have to [regiser it](./get-started.md#register-custom-smart-contracts) before.
+
+## Manage Users
+
+We also provide a UI to help you easily manage user roles & permissions. You can find more details on the dedicated [roles & permissions](./permissions.md) page.
 
 ## Tickets
 
-coming soon.
+Tickets solve the challenge of managing 'centralized' data in a decentralized fashion, through the proposal & voting processes you already know. Tickets allow you to e.g. manage info about your Fellowship like its name, description, social links & more.
