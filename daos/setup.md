@@ -1,4 +1,4 @@
-# 🚀 Getting Started
+# 🛠️ Setup
 
 > Fellowship DAOs are next-level communities that share a common goal
 

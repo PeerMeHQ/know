@@ -33,14 +33,7 @@ module.exports = {
       {
         title: 'DAOs',
         collapsable: false,
-        children: prefix('daos', [
-          'get-started',
-          'permissions',
-          'actions',
-          'vault',
-          // 'boosting',
-          'security',
-        ]),
+        children: prefix('daos', ['overview', 'setup', 'permissions', 'actions', 'vault', 'security', 'boosting']),
       },
       {
         title: 'Features',
