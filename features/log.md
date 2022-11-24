@@ -10,7 +10,7 @@ Currently supported platforms: **Discord, Telegram**
 
 ## Setup for Discord
 
-1. Create a proposal with the [Ticket](/basics/actions.md#tickets) type: **Log Setup**
+1. Create a proposal with the [Ticket](./actions.md#tickets) type: **Log Setup**
 2. Go to the **settings** page of a new or already existing Discord channel
 3. Open **Integrations** > Webhooks > New Webhook
 4. Choose a name & image that will be displayed with #log messages
@@ -20,7 +20,7 @@ Currently supported platforms: **Discord, Telegram**
 
 ## Setup for Telegram
 
-1. Create a proposal with the [Ticket](/basics/actions.md#tickets) type: **Log Setup**
+1. Create a proposal with the [Ticket](./actions.md#tickets) type: **Log Setup**
 2. Add the [Superciety Telegram Bot](https://t.me/superciety_bot) to your group
 3. Retrieve the groups chat ID by executing the command `/chatid` in the group chat
 4. Copy the ID from the bot's response. **Important: include the minus (-) sign in front**
