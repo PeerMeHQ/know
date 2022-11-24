@@ -34,7 +34,6 @@ module.exports = {
         title: 'DAOs',
         collapsable: false,
         children: prefix('daos', [
-          // 'superids',
           'get-started',
           'permissions',
           'actions',
