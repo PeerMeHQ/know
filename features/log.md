@@ -1,7 +1,7 @@
 # 📝 Log
 
 ::: tip
-This feature requires [boosting](/basics/actions.md) of the Fellowship.
+This feature requires [boosting](/daos/boosting.md) of the Fellowship.
 :::
 
 The 📝Log provides a continuous stream of relevant events for your Fellowship DAO directly into the favorite channels of your community.
