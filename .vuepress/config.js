@@ -46,6 +46,7 @@ module.exports = {
         title: 'Features',
         collapsable: false,
         children: prefix('features', [
+          'telegram-bot',
           // 'events',
           // 'log',
         ]),
