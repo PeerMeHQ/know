@@ -77,7 +77,7 @@ Superciety verifies Fellowships to further ensure safety for our users when inte
 
 Requirements for Fellowship DAO verification:
 
-- Must have an Avatar set
+- Must have a Logo or Avatar set
 - Must have an official website set
 - Must be public at the time of verification
 - Must have an active community voting on their proposals
