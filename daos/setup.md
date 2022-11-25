@@ -1,4 +1,4 @@
-# 🌱️ Setup
+# 🌱️ Create & Setup
 
 No one likes to read long & non-practical documentation, so here are simple actionable steps to get your DAO set up in minutes.
 
