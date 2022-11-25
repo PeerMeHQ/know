@@ -20,7 +20,7 @@ Since your Fellowship DAO is based on **its own smart contract**, Superciety doe
 
 Apart from enabling governance for everyone involved, DAO smart contracts are able to perform almost all tasks that a regular blockchain account is able to perform, just in a decentralized manner. The fundamental smart contract is designed to be as generic as possible.
 
-Such generality is achieved with a generic concept called [Actions](./actions.md) which can be attached to a [proposal](#propose). If a proposal passes successfully the [voting process](#vote), its actions can be executed. Actions can interact with the DAO smart contract itself (let's call them **internal actions**) or with external addresses or other smart contracts (**external actions**).
+Such generality is achieved with a generic concept called [Actions](./actions.md) which can be attached to a [proposal](#propose). If a proposal passes the [voting process](#vote) successfully, its actions can be executed on the blockchain. Actions can interact with the DAO smart contract itself (let's call them **internal actions**) or with external addresses which can be other smart contracts (**external actions**).
 
 Using **external actions**, DAOs can not only transfer assets to other wallets, but also unrestrictely call other smart contracts with desired arguments – just like a standard blockchain account.
 
