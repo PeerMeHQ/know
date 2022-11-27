@@ -16,13 +16,15 @@ Since your Fellowship DAO is based on **its own smart contract**, Superciety doe
 - **Custom**: roles created by leaders or other roles
 - **Member**: everyone who owns the defined vote token or has a role assigned
 
-## Features
+## Basic Functionality
 
-Apart from enabling governance for everyone involved, DAO smart contracts are able to perform almost all tasks that a regular blockchain account is able to perform, just in a decentralized manner. The fundamental smart contract is designed to be as generic as possible.
+DAOs are smart contracts that enable users to propose and vote on changes to the organization and community using a pre-defined token – called the governance or vote token. The weight of a member's vote is determined by the number of tokens they own.
+
+DAO smart contracts are able to perform almost all tasks that a regular blockchain account is able to perform, just in a decentralized manner. The fundamental smart contract is designed to be as generic as possible.
 
 Such generality is achieved with a generic concept called [Actions](./actions.md) which can be attached to a [proposal](#propose). If a proposal passes the [voting process](#vote) successfully, its actions can be executed on the blockchain. Actions can interact with the DAO smart contract itself (let's call them **internal actions**) or with external addresses which can be other smart contracts (**external actions**).
 
-Using **external actions**, DAOs can not only transfer assets to other wallets, but also unrestrictely call other smart contracts with desired arguments – just like a standard blockchain account.
+Using **external actions**, DAOs can not only transfer assets to other wallets but also unrestrictedly call other smart contracts with the desired arguments – just like a standard blockchain account can do.
 
 **Internal actions** are used to manage the DAO itself:
 
