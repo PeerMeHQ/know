@@ -86,3 +86,19 @@ Requirements for Fellowship DAO verification:
 - Must not have previous violations of Superciety Rules
 
 We reserve the right to change requirements and verification statuses any time without notice.
+
+## Declare a Division
+
+With Fellowship Divisions you can easily connect child-DAOs to your already existing Fellowship.
+
+While the parent Fellowship will show all of its children on the Info tab, the child Fellowship will make it its relationship to the parent instantly visible on its page.
+
+These are the simple steps to declare a Division:
+
+1. Create the child Fellowship or use an existing one
+2. Create a proposal **in the parent** Fellowship
+3. Attach a [Ticket](./actions.md#tickets) of Type **Fellowship Child Associate**
+4. Find the Fellowship you want to add as a child
+5. Propose & execute the proposal
+
+Once you have executed the proposal, the link has been established.
