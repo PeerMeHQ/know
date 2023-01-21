@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SupercietyHQ/know.git"
+    "url": "git+https://github.com/PeerMeHQ/know.git"
   },
   "author": {
     "name": "Micha Vie",
@@ -21,5 +21,5 @@
     "url": "https://michavie.com"
   },
   "license": "ISC",
-  "homepage": "https://github.com/SupercietyHQ/know#readme"
+  "homepage": "https://github.com/PeerMeHQ/know#readme"
 }

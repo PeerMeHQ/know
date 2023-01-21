@@ -1,6 +1,6 @@
 # 🔧 Tech Stack
 
-Our Github Organization [@superciety](https://github.com/superciety) is our home for all development and planning.
+Our Github Organization [@PeerMe](https://github.com/PeerMe) is our home for all development and planning.
 
 ## Languages & Frameworks
 

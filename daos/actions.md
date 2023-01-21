@@ -20,4 +20,4 @@ We also provide a UI to help you easily manage user roles & permissions. You can
 
 ## Tickets
 
-Tickets solve the challenge of managing 'centralized' data in a decentralized fashion, through the proposal & voting processes you already know. Tickets allow you to e.g. manage info about your Fellowship like its name, description, social links & more.
+Tickets solve the challenge of managing 'centralized' data in a decentralized fashion, through the proposal & voting processes you already know. Tickets allow you to e.g. manage info about your Peering like its name, description, social links & more.

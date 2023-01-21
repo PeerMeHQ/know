@@ -1,11 +1,12 @@
 {
-  "theme_color": "#7F8FA6",
-  "background_color": "#000",
+  "theme_color": "#4fd1c5",
+  "background_color": "#111826",
   "display": "standalone",
+  "orientation": "portrait",
   "scope": "/",
   "start_url": "/",
-  "name": "Developers",
-  "short_name": "Developers",
+  "name": "Peerme",
+  "short_name": "Peerme",
   "icons": [
     {
       "src": "/icon-192x192.png",

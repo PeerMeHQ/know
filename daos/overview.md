@@ -1,13 +1,13 @@
 # ℹ️ Overview
 
-> Fellowship DAOs are next-level communities that share a common goal
+> Peering DAOs are next-level communities that share a common goal
 
 [DAOs](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization) in Web3 are self-sufficient groups of people managed by a smart contract. They operate on the blockchain which ensures maximum trust, transparency & verifiability.
 
-Superciety does all the heavy lifting of creating and running a DAO for you, so you and the DAO members can focus on what really matters to the company, project, or community.
+PeerMe does all the heavy lifting of creating and running a DAO for you, so you and the DAO members can focus on what really matters to the company, project, or community.
 
 ::: tip Note
-Since your Fellowship DAO is based on **its own smart contract**, Superciety does not have any more access or control over voting processes than you do.
+Since your Peering DAO is based on **its own smart contract**, PeerMe does not have any more access or control over voting processes than you do.
 :::
 
 ## Roles
@@ -48,7 +48,7 @@ To set a DAO into the **Leaderless** mode, a proposal with an action to remove t
 
 ## Process
 
-The following steps describe the general decision-making flow of a Fellowship.
+The following steps describe the general decision-making flow of a Peering.
 
 ### 1. Propose
 
@@ -64,7 +64,7 @@ Members can then vote on and sign proposals to express their sentiments towards 
 
 ESDTs used for voting will be deposited in the smart contract to ensure they can only be used once per proposal; they can be withdrawn after the voting period ended. NFT votes are recorded by the smart contract and immediately returned.
 
-A Fellowship operating in [Default mode](#modes) only allows leaders and configured roles to sign proposals that include [actions](./actions.md).
+A Peering operating in [Default mode](#modes) only allows leaders and configured roles to sign proposals that include [actions](./actions.md).
 
 ### 3. Execute
 

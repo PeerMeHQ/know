@@ -6,11 +6,11 @@ Using the governance settings, you can adapt voting processes to optimally fit y
 
 ### Vote Token
 
-The default token used for voting on [proposals](./overview.md#propose). It can be a MultiversX [ESDT](https://docs.elrond.com/tokens/esdt-tokens), [NFT](https://docs.elrond.com/tokens/nft-tokens/#nft-and-sft), or even [SFT](https://docs.elrond.com/tokens/nft-tokens/#nft-and-sft) collection. Everyone who owns at least one of the tokens automatically becomes a member of the Fellowship.
+The default token used for voting on [proposals](./overview.md#propose). It can be a MultiversX [ESDT](https://docs.elrond.com/tokens/esdt-tokens), [NFT](https://docs.elrond.com/tokens/nft-tokens/#nft-and-sft), or even [SFT](https://docs.elrond.com/tokens/nft-tokens/#nft-and-sft) collection. Everyone who owns at least one of the tokens automatically becomes a member of the Peering.
 
 ### Voting Period
 
-The default voting period (in days) for [proposals](./overview.md#propose) created within the Fellowship.
+The default voting period (in days) for [proposals](./overview.md#propose) created within the Peering.
 
 ### Minimum to Propose
 

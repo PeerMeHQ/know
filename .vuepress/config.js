@@ -1,7 +1,7 @@
 let ogprefix = 'og: http://ogp.me/ns#'
 let title = 'Knowledge Base'
-let titleFull = 'Knowledge Base - Superciety'
-let description = 'Everything you need to know about services in Superciety.'
+let titleFull = 'Knowledge Base - PeerMe'
+let description = 'Everything you need to know about the services of PeerMe.'
 
 module.exports = {
   title,
@@ -23,7 +23,7 @@ module.exports = {
   ],
   themeConfig: {
     logo: '/images/logo.png',
-    nav: [{ text: 'Superciety.com', link: 'https://superciety.com' }],
+    nav: [{ text: 'PeerMe.io', link: 'https://peerme.io' }],
     sidebar: [
       {
         title: 'General',
@@ -49,7 +49,7 @@ module.exports = {
     smoothScroll: true,
     lastUpdated: 'Last Updated',
     docsBranch: 'main',
-    repo: 'superciety/know',
+    repo: 'peermehq/know',
     editLinks: true,
   },
   plugins: [
