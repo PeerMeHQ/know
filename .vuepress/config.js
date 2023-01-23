@@ -43,7 +43,7 @@ module.exports = {
       {
         title: 'Developers',
         collapsable: false,
-        children: prefix('developers', ['tech-stack', 'smart-contracts', 'clean-code']),
+        children: prefix('developers', ['api', 'tech-stack', 'smart-contracts', 'clean-code']),
       },
     ],
     smoothScroll: true,
