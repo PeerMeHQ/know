@@ -22,4 +22,4 @@ The minimum amount of tokens required to vote on [proposals](./overview.md#propo
 
 ### Minimum Attendance
 
-The minimum of total FOR votes of a proposal required for [proposals](./overview.md#propose) to succeed. Also known as Quorum.
+The minimum of total FOR votes a [proposal](./overview.md#propose) requires to succeed. Also known as Quorum. This is a hard limit in addition to achieving >50% of votes.
