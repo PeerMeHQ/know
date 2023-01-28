@@ -27,7 +27,7 @@ Prepare your smart contract to be pluggable by implementing 2 simple View functi
 
 We have an example of this implementation available on our [GitHub](https://github.com/PeerMeHQ) page: [dao-plug-template-sc](https://github.com/PeerMeHQ/dao-plug-template-sc/blob/main/src/lib.rs).
 
-### 3. Create a Proposal with 'setPlug' Action & execute it
+### 3. Propose & Execute a 'setPlug' Contract Call Action
 
 1. Start a new proposal for your DAO
 2. Attach a [Contract Call](./actions.md#call-contract) Action of type: **setPlug**
@@ -36,3 +36,5 @@ We have an example of this implementation available on our [GitHub](https://gith
    - [Quorum](./settings.md#minimum-attendance): Minimum of total FOR votes a proposal requires to succeed.
    - [Min Propose Weight](./settings.md#minimum-to-propose): Minimum amount of tokens required to create a proposal.
 4. Create and execute the proposal
+
+That's it. You are all set to run your DAO with your custom implementation.
