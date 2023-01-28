@@ -25,6 +25,7 @@ The available methods are
 - ESDT [existing] - Use an existing [ESDT](https://docs.elrond.com/developers/esdt-tokens/) for voting
 - NFT [existing] - Use an existing [NFT](https://docs.elrond.com/developers/nft-tokens/) collection for voting
 - Multisig - Continue without a token and vote based on [roles & permissions](./permissions.md)
+- Custom via [🔌 Plug](./plugging.md): Use a custom smart contract to feed the DAO with vote information
 
 To ensure your DAO operates at the [highest level of security standards](./security.md#transferring-token-management-rights), we require publicly visible DAOs to transfer token management rights to their Peering smart contracts.
 
