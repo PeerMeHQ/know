@@ -12,7 +12,7 @@ A payment action refers to any assets being transferred from the DAO smart contr
 
 Contract call actions allow you to craft & execute on-chain transaction with any data to any destination address, which usually is a smart contract.
 
-In order to use your custom smart contract, you may have to [regiser it](./get-started.md#register-custom-smart-contracts) before.
+In order to use your custom smart contract, you may have to [regiser it](./setup.md#register-custom-smart-contracts) before.
 
 ## Manage Users
 
