@@ -16,7 +16,7 @@ Plugging your custom smart contract is designed to be a fast & straightforward p
 
 ### 1. Create your DAO or use an existing one
 
-Either way, make sure to **NOT** set any vote token ("Continue without Token").
+DAOs can be configured to only use the voting power defined by your Plug smart contract, but also in combination with a governance token.
 
 ### 2. Implement standardized View Functions
 
