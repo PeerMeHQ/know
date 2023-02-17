@@ -10,20 +10,23 @@ Currently supported platforms: **Discord, Telegram**
 
 ## Setup for Discord
 
-1. Create a proposal with the [Ticket](./actions.md#tickets) type: **Log Setup**
-2. Go to the **settings** page of a new or already existing Discord channel
-3. Open **Integrations** > Webhooks > New Webhook
-4. Choose a name & image that will be displayed with #log messages
-5. Copy and paste the webhook URL into the open Ticket
-6. Create the Ticket, and get the proposal to pass
-7. Execute the proposal, and you are done 🎉
+**Requirements:**
+
+1. [Invite](./bot.md#setup) the PeerMe [Bot🤖](./bot.md) into your Discord server
+2. Run the `/setup` command in any channel
+
+**Subscribe to a channel of any boosted Peering DAO:**
+
+1. Go to the channel you want to subscribe to a Peering Log📝
+2. Run `/subscribe-log <Peering ID>` (ID: the unique ID of the Peering or smart contract address)
+3. Done 🎉 You will now receive Log📝 events in the current channel
+
+**Unsubscribe a channel from a Peering DAO:**
+
+1. Go to the channel you want to unsubscribe from a Peering Log📝
+2. Run `/unsubscribe-log <Peering ID>` (ID: the unique ID of the Peering or smart contract address)
+3. Done ✅
 
 ## Setup for Telegram
 
-1. Create a proposal with the [Ticket](./actions.md#tickets) type: **Log Setup**
-2. Add the [PeerMe Telegram Bot](https://t.me/PeerMe_bot) to your group
-3. Retrieve the groups chat ID by executing the command `/chatid` in the group chat
-4. Copy the ID from the bot's response. **Important: include the minus (-) sign in front**
-5. Paste the chat ID into the open Ticket
-6. Create the Ticket, and get the proposal to pass
-7. Execute the proposal, and you are done 🎉
+coming soon.
