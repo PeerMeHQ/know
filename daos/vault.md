@@ -2,7 +2,7 @@
 
 The Vault contains all assets owned by the DAO. Since every DAO is fundamentally a smart contract, it can hold any assets available on the MultiversX blockchain.
 
-You can find a Fellowships Vault by selecting the 'Vault' tab on the dedicated Peering page.
+You can find a Peering's Vault by selecting the 'Vault' tab on the dedicated Peering page.
 
 ## Deposit
 

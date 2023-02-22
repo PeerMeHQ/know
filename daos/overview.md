@@ -56,11 +56,11 @@ A member creates a public proposal, given they either have [permission](./permis
 
 The voting period in the length of [(Settings) Default Voting Period](./settings.md#voting-period) starts immediately.
 
-Our platform will then notify key members via their connected social channels automatically and post an announcement to the Fellowships [Log📝](../features/log.md) (if configured).
+Our platform will then notify key members via their connected social channels automatically and post an announcement to the Peering [Log📝](../features/log.md) (if configured).
 
 ### 2. Vote / Sign
 
-Members can then vote on and sign proposals to express their sentiments towards it. They can do so using the Fellowships vote token or by providing a signature if required by the [permission](./permissions.md) system.
+Members can then vote on and sign proposals to express their sentiments towards it. They can do so using the Peering's vote token or by providing a signature if required by the [permission](./permissions.md) system.
 
 ESDTs used for voting will be deposited in the smart contract to ensure they can only be used once per proposal; they can be withdrawn after the voting period ended. NFT votes are recorded by the smart contract and immediately returned.
 

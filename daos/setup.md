@@ -39,7 +39,7 @@ To upload a Logo, create a proposal with a Ticket of Type 'Peering Logo Update' 
 
 ### [Avatar] Use an existing NFT
 
-Similar to PEERIDs, Fellowships can have an NFT Avatar too. In fact, they even use the same smart contract. In order to set or update a Peering's Avatar, create a proposal with a [Contract Call](./actions.md#call-contract) action and select the **PEERID** smart contract from the dropdown list:
+Similar to PEERIDs, Peerings can have an NFT Avatar too. In fact, they even use the same smart contract. In order to set or update a Peering's Avatar, create a proposal with a [Contract Call](./actions.md#call-contract) action and select the **PEERID** smart contract from the dropdown list:
 
 ![set avatar demo](/images/set-avatar-demo.png)
 
@@ -64,7 +64,7 @@ Reserving a username (aka. Herotag) for the Peering smart contract is fairly eas
 
 ## Register Smart Contracts
 
-Fellowships can register their own Smart Contracts to allow users to easily interact with them. The registration can be done by creating a Ticket of type **Contract Register** via a Proposal:
+Peerings can register their own Smart Contracts to allow users to easily interact with them. The registration can be done by creating a Ticket of type **Contract Register** via a Proposal:
 
 ![register contract demo](/images/register-contract-demo.png)
 
@@ -72,9 +72,9 @@ Once verified, users can then add the Smart Contract to their Favorites on the S
 
 ## Get Verified
 
-PeerMe verifies Fellowships to further ensure safety for our users when interacting with Peering DAOs in the ecosystem. They are more likely to appear on Explore pages.
+PeerMe verifies Peerings to further ensure safety for our users when interacting with Peering DAOs in the ecosystem. They are more likely to appear on Explore pages.
 
-> Verified Fellowships are displayed with a blue badge next to their name.
+> Verified Peerings are displayed with a blue badge next to their name.
 
 Requirements for Peering DAO verification:
 
