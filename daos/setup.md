@@ -64,7 +64,7 @@ Reserving a username (aka. Herotag) for the Peering smart contract is fairly eas
 
 ## Register Smart Contracts
 
-Peerings can register their own Smart Contracts to allow users to easily interact with them. The registration can be done by creating a Ticket of type **Contract Register** via a Proposal:
+Peerings can register their own Smart Contracts to allow users to easily interact with them. The registration can be done by creating a [Ticket](./tickets.md#contract-register) of type **Contract Register** via a Proposal:
 
 ![register contract demo](/images/register-contract-demo.png)
 
@@ -98,7 +98,7 @@ These are the simple steps to declare a Division:
 
 1. Create the child Peering or use an existing one
 2. Create a proposal **in the parent** Peering
-3. Attach a [Ticket](./actions.md#tickets) of Type **Peering Child Associate**
+3. Attach a [Ticket](./tickets.md#peering-child-associate) of Type **Peering Child Associate**
 4. Find the Peering you want to add as a child
 5. Propose & execute the proposal
 

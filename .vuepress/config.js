@@ -39,6 +39,7 @@ module.exports = {
           'settings',
           'permissions',
           'actions',
+          'tickets',
           'vault',
           'security',
           'boosting',
