@@ -25,14 +25,10 @@ Prepare your smart contract to be pluggable by implementing 2 simple View functi
 - `getDaoVoteWeight`: returning the users' vote weight as a `BigUint`
 - `getDaoMembers`: returning all addresses that should be displayed as members
 
-::: warning Voting Power Denominations
-When implementing a custom smart contract for user voting power on the DAO platform, consider the following:
+::: warning Compatibility with Existing Governance Token
+When using a governance token in conjunction with a Plug, the `getDaoVoteWeight` function **must return denominated values**. These values should be based on the number of decimal places in your governance token.
 
-If a governance token **is not set**, the value returned from `getDaoVoteWeight` should be the exact amount that will be displayed in the UI. For tokens with 18 decimals, it's important to divide e.g. staked token amounts by 10^18 (for values denominated with 18 decimals) so the nominated amount can be used as voting power.
-
-If a governance token **is set**, the voting power returned from `getDaoVoteWeight` is added to the user-selected token amounts. In this case, the view function must return the denominated values.
-
-Ensure your smart contract accommodates these conditions for accurate voting power representation in the platform.
+For example, if you're using a governance token with 18 decimal places, the view function should return `1000000000000000000` (that's 1 followed by 18 zeros) to represent a **voting power of 1**.
 :::
 
 We have an example of this implementation available on our [GitHub](https://github.com/PeerMeHQ) page: [dao-plug-template-sc](https://github.com/PeerMeHQ/dao-plug-template-sc/blob/main/src/lib.rs).
