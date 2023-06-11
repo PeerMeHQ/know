@@ -1,4 +1,4 @@
-# Tickets 🎟️
+# 🎟️ Tickets
 
 Tickets are our way of enabling DAOs to manage off-chain data automatically and in a decentralized fashion. Multiple Tickets can be attached to a single proposal.
 
