@@ -45,6 +45,7 @@ module.exports = {
           'boosting',
           'plugging',
           'technical',
+          'tools',
         ]),
       },
       {
