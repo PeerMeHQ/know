@@ -51,6 +51,8 @@ PeerMe collaborates with various partners to ensure the compatibility of their s
 
 Below is a list of compatible staking pools that can be seamlessly integrated with your PeerMe DAO:
 
-- **ArtCPAClub (ESDTs)**: [erd1qqqqqqqqqqqqqpgqj8exjpz38agu78sxh5rlxcp2kmxy35m6kqysscypf3](https://explorer.multiversx.com/accounts/erd1qqqqqqqqqqqqqpgqj8exjpz38agu78sxh5rlxcp2kmxy35m6kqysscypf3).
+- **OneDex Staking**: [erd1qqqqqqqqqqqqqpgql9z9vm8d599ya2r9seklpkcas6qmude4mvlsgrj7hv](https://explorer.multiversx.com/accounts/erd1qqqqqqqqqqqqqpgql9z9vm8d599ya2r9seklpkcas6qmude4mvlsgrj7hv)
 
-- **ArtCPAClub (NFTs/SFTs)**: [erd1qqqqqqqqqqqqqpgqfken0exk7jpr85dx6f8ym3jgcagesfcqkqys0xnquf](https://explorer.multiversx.com/accounts/erd1qqqqqqqqqqqqqpgqfken0exk7jpr85dx6f8ym3jgcagesfcqkqys0xnquf).
+- **ArtCPAClub (ESDTs)**: [erd1qqqqqqqqqqqqqpgqj8exjpz38agu78sxh5rlxcp2kmxy35m6kqysscypf3](https://explorer.multiversx.com/accounts/erd1qqqqqqqqqqqqqpgqj8exjpz38agu78sxh5rlxcp2kmxy35m6kqysscypf3)
+
+- **ArtCPAClub (NFTs/SFTs)**: [erd1qqqqqqqqqqqqqpgqfken0exk7jpr85dx6f8ym3jgcagesfcqkqys0xnquf](https://explorer.multiversx.com/accounts/erd1qqqqqqqqqqqqqpgqfken0exk7jpr85dx6f8ym3jgcagesfcqkqys0xnquf)
