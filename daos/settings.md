@@ -23,3 +23,7 @@ The minimum amount of tokens required to vote on [proposals](./overview.md#propo
 ### Minimum Attendance
 
 The minimum of total FOR votes a [proposal](./overview.md#propose) requires to succeed. Also known as Quorum. This is a hard limit in addition to achieving >50% of votes.
+
+## Restrict Vote Token Nonces
+
+By default, all token nonces of a NFT, SFT, and MetaESDT collection are allowed to vote. If you want to scope your DAO to specific vote token nonces, execute a transaction of type `setRestrictedVoteNonces` via Propose > Contract Call > (Your DAO) Smart Contract > Set Restricted Vote Nonces. Enter each token nonce into a separate field, and leave it empty to unset the setting.
