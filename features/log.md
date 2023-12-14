@@ -19,13 +19,13 @@ Currently supported platforms: **Discord, Telegram**
 **Subscribe to a channel of any boosted Peering DAO:**
 
 1. Go to the channel you want to subscribe to a Peering Log📝
-2. Run `/subscribe-log <Peering ID>` (ID: the unique ID of the Peering or smart contract address)
+2. Run `/subscribe-log PEERINGID` (ID: the unique ID of the Peering or smart contract address)
 3. Done 🎉 You will now receive Log📝 events in the current channel
 
 **Unsubscribe a channel from a Peering DAO:**
 
 1. Go to the channel you want to unsubscribe from a Peering Log📝
-2. Run `/unsubscribe-log <Peering ID>` (ID: the unique ID of the Peering or smart contract address)
+2. Run `/unsubscribe-log PEERINGID` (ID: the unique ID of the Peering or smart contract address)
 3. Done ✅
 
 ## Setup for Telegram
@@ -39,11 +39,11 @@ Currently supported platforms: **Discord, Telegram**
 **Subscribe to a channel of any boosted Peering DAO:**
 
 1. Go to the group you want to subscribe to a Peering Log📝
-2. Run `/subscribe-log <Peering ID>` (ID: the unique ID of the Peering or smart contract address)
+2. Run `/subscribe_log PEERINGID` (ID: the unique ID of the Peering or smart contract address)
 3. Done 🎉 You will now receive Log📝 events in the current group
 
 **Unsubscribe a channel from a Peering DAO:**
 
 1. Go to the group you want to unsubscribe from a Peering Log📝
-2. Run `/unsubscribe-log <Peering ID>` (ID: the unique ID of the Peering or smart contract address)
+2. Run `/unsubscribe_log PEERINGID` (ID: the unique ID of the Peering or smart contract address)
 3. Done ✅
