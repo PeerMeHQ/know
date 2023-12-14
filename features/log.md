@@ -12,9 +12,9 @@ Currently supported platforms: **Discord, Telegram**
 
 **Requirements:**
 
-1. [Invite](./bot.md#setup) the PeerMe [Bot🤖](./bot.md) into your Discord server
-2. Run the `/setup` command in any channel (creates the `PeerMeMod` role)
-3. Your user must be assigned the `PeerMeMod` role created by the setup command
+- Bot is set up by user with leader role in DAO
+- Leader has their PeerID connected to Telegram
+- [Invite](./bot.md#setup) the PeerMe [Bot🤖](./bot.md) into your Discord server
 
 **Subscribe to a channel of any boosted Peering DAO:**
 
