@@ -32,5 +32,23 @@ A permission is an ability to perform a certain action on the blockchain or insi
 
 A policy is the actual granting of a specific permission to a particular role. It defines a mapping between
 the role and permission while also defining the parameters under which the role can invoke the
-permission. The parameters include method: ‘token weight’, ‘one’, ‘all’, or ‘quorum’ and other items like
+permission. The parameters include method: `token weight`, `one`, `all`, `majority` or `quorum` and other items like
 the quorum count or vote duration (for token weight).
+
+### Maintaining Governance Integrity
+
+To ensure the integrity of the decision-making process within the DAO, strict adherence to role-specific policies is mandatory for all proposals. This compliance is critical for a proposal's acceptance and subsequent execution.
+
+- **Proposal Validation**: Each proposal is scrutinized to verify its alignment with the policies related to the proposer's role. This validation is crucial to maintain the governance standards set by the DAO.
+- **Integrity of Decisions**: Ensuring that proposals adhere to role-specific policies guarantees that decisions are made within the framework of established governance, preserving the DAO's operational integrity.
+- **Rejection of Non-Compliant Proposals**: Proposals failing to meet the necessary policy criteria are rejected. This safeguard is in place to uphold the governance structure and prevent unauthorized or inappropriate actions.
+
+This policy enforcement is a cornerstone of our governance model, ensuring that every decision reflects the collective vision and rules of the DAO.
+
+#### Example
+
+Imagine the DAO's developers have created a new smart contract for an online shop. They want to deploy it but need approval from the DAO. According to the DAO's policy, although developers can draft and propose smart contracts, the final approval and deployment require a consensus from the board members and leaders.
+
+**Roles & Permission can be customly configured for your DAO based on your needs.**
+
+![Policy UI Preview](/images/policy-ui.png)
