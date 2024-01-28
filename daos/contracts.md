@@ -28,12 +28,18 @@ Any smart contract with **locked & staged** code is ready to be proposed via an 
 
 > Spawnable is a first-class supported product owned by PeerMe.
 
-Spawnable elevates the smart contract management process with its automated capabilities. Integrating seamlessly with your GitHub repository, Spawnable automatically builds merged Pull Requests for smart contracts and deploys them to Devnet and Testnet without user input. These automated builds then trigger proposal creations in PeerMe.
+Spawnable elevates the smart contract management process with its automated capabilities. Integrating seamlessly with your GitHub repository, Spawnable automatically builds merged Pull Requests for smart contracts and deploys them to Devnet and Testnet without user input. These automated builds then trigger proposal creations for your DAO on PeerMe.
 
-### Seamless Process
+In order to fully leverage Spawnable's automated deployment and upgrade proposals, certain prerequisites must be met:
 
-Spawnable's integration streamlines the workflow from code update to proposal creation. By automating this process, it significantly reduces manual effort and expedites the entire contract management cycle.
+1. **Assigning Spawnable Bot Developer Role**: For Spawnable to initiate proposals on behalf of your DAO, the Spawnable Bot must be assigned the 'developer' role. This enables the bot to stage, lock, and propose changes to smart contracts under the governance of your DAO.
+
+2. **Depositing EGLD for Network Fees**: Smart contract transactions on the MultiversX blockchain incur network fees. To facilitate these transactions, sufficient EGLD must be deposited in your Spawnable account. This ensures that all automated processes run smoothly without interruption due to insufficient funds.
+
+3. **Setting Up Automation in PeerMe**: These configurations can be easily managed on the PeerMe platform. Navigate to `Govern -> Propose -> Contracts -> Automations` in the PeerMe interface. Here, you can assign roles to the Spawnable Bot and manage your EGLD deposits, streamlining the automation process.
+
+By fulfilling these requirements, you empower your DAO to benefit from Spawnable’s robust automation capabilities, making smart contract management more efficient, secure, and less labor-intensive.
 
 ---
 
-PeerMe, in conjunction with Spawnable, offers a comprehensive and efficient system for managing smart contracts in a DAO environment. From staging to deployment, each phase is designed to ensure security, transparency, and member involvement. For more details or assistance, feel free to reach out to our support team.
+Remember, PeerMe and Spawnable are here to simplify and secure your smart contract management process. For any queries or detailed guidance, our support team is always available to assist you.
