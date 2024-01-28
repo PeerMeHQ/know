@@ -38,6 +38,7 @@ module.exports = {
           'setup',
           'settings',
           'permissions',
+          'contracts',
           'actions',
           'tickets',
           'vault',
