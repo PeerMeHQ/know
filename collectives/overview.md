@@ -1,13 +1,13 @@
 # ℹ️ Overview
 
-> Peering DAOs are next-level communities that share a common goal
+> Collectives DAOs are next-level communities that share a common goal
 
 [DAOs](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization) in Web3 are self-sufficient groups of people managed by a smart contract. They operate on the blockchain which ensures maximum trust, transparency & verifiability.
 
 PeerMe does all the heavy lifting of creating and running a DAO for you, so you and the DAO members can focus on what really matters to the company, project, or community.
 
 ::: tip Note
-Since your Peering DAO is based on **its own smart contract**, PeerMe does not have any more access or control over voting processes than you do.
+Since your Collectives DAO is based on **its own smart contract**, PeerMe does not have any more access or control over voting processes than you do.
 :::
 
 ## Roles
@@ -48,7 +48,7 @@ To set a DAO into the **Leaderless** mode, a proposal with an action to remove t
 
 ## Process
 
-The following steps describe the general decision-making flow of a Peering.
+The following steps describe the general decision-making flow of a Collectives.
 
 ### 1. Propose
 
@@ -56,15 +56,15 @@ A member creates a public proposal, given they either have [permission](./permis
 
 The voting period in the length of [(Settings) Default Voting Period](./settings.md#voting-period) starts immediately.
 
-Our platform will then notify key members via their connected social channels automatically and post an announcement to the Peering [Log📝](../features/log.md) (if configured).
+Our platform will then notify key members via their connected social channels automatically and post an announcement to the Collectives [Log📝](../features/log.md) (if configured).
 
 ### 2. Vote / Sign
 
-Members can then vote on and sign proposals to express their sentiments towards it. They can do so using the Peering's vote token or by providing a signature if required by the [permission](./permissions.md) system.
+Members can then vote on and sign proposals to express their sentiments towards it. They can do so using the Collectives's vote token or by providing a signature if required by the [permission](./permissions.md) system.
 
 ESDTs used for voting will be deposited in the smart contract to ensure they can only be used once per proposal; they can be withdrawn after the voting period ended. NFT votes are recorded by the smart contract and immediately returned.
 
-A Peering operating in [Default mode](#modes) only allows leaders and configured roles to sign proposals that include [actions](./actions.md).
+A Collectives operating in [Default mode](#modes) only allows leaders and configured roles to sign proposals that include [actions](./actions.md).
 
 ### 3. Execute
 

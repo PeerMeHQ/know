@@ -13,7 +13,7 @@ By storing content on the blockchain you risk:
 - People following your conversations/proposals EVEN IF it is marked as **private** on the front.
 - **Being front-run on proposed actions**:
 
-Imagine this, a private Peering you are a member of seeks to buy an NFT from a marketplace. You are creating a proposal and attaching an action to call the 'buy' function of the marketplace smart contract with the correct arguments. Once you submit the proposal, it enters the voting period set to 1 day. Now, this is where things become risky. Anyone can now see the intent directly on the blockchain (even if the Peering is marked as private) and front-run your intent by purchasing this exact NFT before you get to execute the proposal after the voting period ends. This is just a simple scenario but applies to a wide range of use cases.
+Imagine this, a private Collectives you are a member of seeks to buy an NFT from a marketplace. You are creating a proposal and attaching an action to call the 'buy' function of the marketplace smart contract with the correct arguments. Once you submit the proposal, it enters the voting period set to 1 day. Now, this is where things become risky. Anyone can now see the intent directly on the blockchain (even if the Collectives is marked as private) and front-run your intent by purchasing this exact NFT before you get to execute the proposal after the voting period ends. This is just a simple scenario but applies to a wide range of use cases.
 
 To solve this, PeerMe only stores cryptographic proofs on the blockchain that can be used to verify the originality of proposals any time. We even provided a Verifier tool on the proposal page to help you with that.
 

@@ -31,9 +31,9 @@ module.exports = {
         children: prefix('general', ['overview', 'philosophy', 'support']),
       },
       {
-        title: 'DAOs',
+        title: 'Collectives',
         collapsable: false,
-        children: prefix('daos', [
+        children: prefix('collectives', [
           'overview',
           'setup',
           'settings',
