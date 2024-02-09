@@ -16,7 +16,7 @@ Every Peering incurs a daily Energy cost, deducted in real-time. Users can opt t
 
 ## Division Energy-Sharing
 
-In scenarios where a project operates multiple Peerings, these can be organized as [Divisions](../daos/setup.html#declare-a-division). To optimize costs, we've implemented Energy-sharing between a parent Peering and its Divisions:
+In scenarios where a project operates multiple Peerings, these can be organized as [Divisions](../collectives/setup.html#declare-a-division). To optimize costs, we've implemented Energy-sharing between a parent Peering and its Divisions:
 
 - Divisions inherit the Boosting level of their parent Peering.
 - Energy added to a Division directly boosts its parent Peering.

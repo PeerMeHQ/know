@@ -1,7 +1,7 @@
 # 📝 Log
 
 ::: tip
-This feature requires [boosting](/daos/boosting.md) of the Peering.
+This feature requires [boosting](/collectives/boosting.md) of the Peering.
 :::
 
 The 📝Log provides a continuous stream of relevant events for your Peering DAO directly into the favorite channels of your community.
