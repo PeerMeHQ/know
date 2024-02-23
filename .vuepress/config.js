@@ -45,6 +45,7 @@ module.exports = {
           'security',
           'boosting',
           'plugging',
+          'specializations',
           'technical',
           'tools',
         ]),
