@@ -10,9 +10,9 @@ For a comprehensive breakdown of levels and features, visit the [PeerMe DAO Boos
 
 ## Energy: The Fuel of PeerMe
 
-Energy is the currency of Boosting, directly linked to our SUPER token on the MultiversX blockchain: **1 ENERGY = 1 SUPER**.
+Energy is the currency of Boosting, linked to the USD value: **1 ENERGY = $0.01 USD**.
 
-Every Teams incurs a daily Energy cost, deducted in real-time. Users can opt to boost with tokens other than SUPER, which are seamlessly converted to SUPER via [xExchange](https://xexchange.com).
+Every Team incurs a daily Energy cost, deducted in real-time. Users can opt to boost with tokens other than USDC, which are seamlessly converted to USDC via [xExchange](https://xexchange.com) to increase the team's Energy.
 
 ## Division Energy-Sharing
 
