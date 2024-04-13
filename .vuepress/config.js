@@ -58,7 +58,7 @@ module.exports = {
       {
         title: 'Developers',
         collapsable: false,
-        children: prefix('developers', ['extensions', 'api', 'smart-contracts', 'clean-code']),
+        children: prefix('developers', ['extensions', 'sdks', 'api', 'smart-contracts', 'clean-code']),
       },
     ],
     smoothScroll: true,
