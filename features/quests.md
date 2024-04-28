@@ -36,3 +36,15 @@ Quests operate under three different modes to cater to various needs and scenari
 3. Upon successful completion, the rewards will be distributed accordingly.
 
 Remember, Quests aim to create an interactive, efficient, and productive Teams community by facilitating task management in a decentralized way.
+
+## Fees
+
+Understanding the fee structure is essential for participating in Quests. Below is how fees are applied:
+
+- **Default Platform Fee**: A fee of 5% is charged on the total bounty amount upon successful completion of a Quest. For example, if a $100 bounty is completed, the platform fee would be $5, leaving a $95 reward for the bounty completer.
+
+- **Reduced Fee for Boosted Teams**: For Teams boosted to Level Two, the fee is reduced to 2%.
+
+- **Withdraw Fee for Incomplete Bounties**: A minimal fee of 0.05% is charged if a bounty is withdrawn before completion.
+
+These fee structures are put in place to maintain a robust and sustainable ecosystem that rewards contribution and participation effectively.
