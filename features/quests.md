@@ -2,7 +2,7 @@
 
 ## Overview and Concept of Quests
 
-"Quests", also referred to as "DAO Bounties", are tasks or projects assigned within a Teams. This feature is designed to manage, assign, and incentivize tasks, encouraging active participation and the execution of successful proposals in the Teams's community.
+"Quests", also referred to as "Bounties", are tasks or projects assigned within a Team. This feature is designed to manage, assign, and incentivize tasks, encouraging active participation and the execution of successful proposals in the Teams's community.
 
 By setting up a Quest, the Teams can incentivize the successful completion of tasks, leveraging the collective skills and efforts of its members. It's the decentralization of work and how we envision you **to earn a sustainable living in the Metaverse**.
 
