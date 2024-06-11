@@ -17,7 +17,7 @@ The PeerMe bot is the bridge between PeerMe and other social platforms. It comes
 ### Discord
 
 - **For You**: Connect your PEERID to Discord: [https://peerme.io/settings/identity](https://peerme.io/settings/identity)
-- **For Servers**: Invite the PeerMe Bot into your Server: [Invite PeerMe Discord Bot](https://discord.com/api/oauth2/authorize?client_id=796325771106058240&permissions=1644705082487&redirect_uri=https%3A%2F%2Fpeerme.io&scope=bot%20applications.commands) and use the `/setup` command in the chat for further instructions
+- **For Servers**: Invite the PeerMe Bot into your Server: [Invite PeerMe Discord Bot](https://discord.com/oauth2/authorize?client_id=796325771106058240) and use the `/setup` command in the chat for further instructions
 
 ## Log
 
