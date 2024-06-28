@@ -1,7 +1,7 @@
 # 🆔 KYC
 
 ::: tip
-This feature is an [Add-on](/teams/boosting.md#add-ons)
+This feature is an [Add-on](/teams/boosting.md#add-ons).
 :::
 
 ## Introduction
