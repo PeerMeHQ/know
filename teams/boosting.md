@@ -22,3 +22,19 @@ In scenarios where a project operates multiple Teams, these can be organized as 
 - Energy added to a Division directly boosts its parent Teams.
 
 To balance this system and deter misuse, the base Energy cost of the parent Teams increases by 20% for the first three Divisions and by 10% for each additional Division.
+
+## Add-ons
+
+Unlock advanced features to maximize your team's potential. Follow these steps to enable Add-ons:
+
+1. Open your team’s home page.
+2. Select the Info tab.
+3. Tap Configure Add-ons.
+
+Available Add-ons include:
+
+- Advanced Privacy Protections
+- [Know Your Customer (KYC) Verification](../features/kyc.md)
+- And more...
+
+> Activating Add-ons may increase your monthly energy consumption based on the specific feature enabled.
