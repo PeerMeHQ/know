@@ -1,7 +1,7 @@
 # 🆔 KYC
 
 ::: tip
-This feature requires [boosting](/teams/boosting.md) of the Teams.
+This feature is an [Add-on](/teams/boosting.md#add-ons)
 :::
 
 ## Introduction
