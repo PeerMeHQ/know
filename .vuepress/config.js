@@ -53,7 +53,7 @@ module.exports = {
       {
         title: 'Features',
         collapsable: false,
-        children: prefix('features', ['bot', 'events', 'log', 'bounties']),
+        children: prefix('features', ['bot', 'events', 'log', 'bounties', 'kyc']),
       },
       {
         title: 'Developers',
