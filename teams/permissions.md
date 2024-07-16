@@ -22,7 +22,7 @@ Text-only proposals are risk-free and therefore allow anyone owning the Teams's 
 
 > Progressive Decentralization — a process in which founding teams relinquish control by degrees, over time.
 
-By default, only Leaders are allowed to attach [Actions](./actions.md) to their proposals but they may release more and more control to other roles over time. A Teams with a single leader can add & execute Actions soley by themselves, but they may opt-in to assign further leaders to continue forming decisions together. A Teams with multiple leaders automatically enforces a Multisig-like signer quorum for proposals.
+By default, only Leaders are allowed to attach [Actions](./actions.md) to their proposals but they may release more and more control to other roles over time. A Teams with a single leader can add & execute Actions solely by themselves, but they may opt-in to assign further leaders to continue forming decisions together. A Teams with multiple leaders automatically enforces a Multisig-like signer quorum for proposals.
 
 ## Permission
 
