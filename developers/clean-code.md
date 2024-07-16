@@ -2,7 +2,7 @@
 
 > “Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.” - Martin Golding
 
-These are some practical guideliness for keeping the code nice and tidy.
+These are some practical guidelines for keeping the code nice and tidy.
 
 ## Clarity
 
