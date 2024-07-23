@@ -6,7 +6,7 @@ PeerMe DAOs are inherently robust, but **Boosting** elevates their capabilities.
 
 Boosting is powered by **Energy** — a resource any user can contribute to a DAO, known as Teams on our platform. The greater the Energy input, the higher the level a Teams attains, unlocking more features.
 
-For a comprehensive breakdown of levels and features, visit the [PeerMe DAO Boosting](https://peerme.io/teams/peerme-dao/boost) page.
+For a comprehensive breakdown of levels and features, visit the [PeerMe DAO Boosting](https://peerme.io/peerme-dao/boost) page.
 
 ## Energy: The Fuel of PeerMe
 
