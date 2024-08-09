@@ -8,7 +8,7 @@ These are some practical guidelines for keeping the code nice and tidy.
 
 - Keep functions and methods as short as possible. 20 to 30 lines should be a maximum.
 - Only write (and commit) code that is used and necessary.
-- Write expressive variable, function and class names.
+- Write expressive variables, functions, and class names.
 - Only leave commented code if necessary and a description of why it was commented.
 
 ## Simplicity

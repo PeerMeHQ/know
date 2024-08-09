@@ -35,7 +35,7 @@ Quests operate under three different modes to cater to various needs and scenari
 2. Click on the "Complete" button.
 3. Upon successful completion, the rewards will be distributed accordingly.
 
-Remember, Quests aim to create an interactive, efficient, and productive Teams community by facilitating task management in a decentralized way.
+Remember, Quests aims to create an interactive, efficient, and productive Teams community by facilitating task management in a decentralized way.
 
 ## Fees
 

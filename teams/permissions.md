@@ -26,7 +26,7 @@ By default, only Leaders are allowed to attach [Actions](./actions.md) to their 
 
 ## Permission
 
-A permission is an ability to perform a certain action on the blockchain or inside the PeerMe ecosystem using Tickets.
+A permission is the ability to perform a certain action on the blockchain or inside the PeerMe ecosystem using Tickets.
 
 ## Policy
 
