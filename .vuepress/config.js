@@ -46,6 +46,7 @@ module.exports = {
           'boosting',
           'plugging',
           'specializations',
+          'staking',
           'technical',
           'tools',
         ]),
