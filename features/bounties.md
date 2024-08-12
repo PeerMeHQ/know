@@ -37,7 +37,7 @@ Quests operate under three different modes to cater to various needs and scenari
 
 Remember, Quests aims to create an interactive, efficient, and productive Teams community by facilitating task management in a decentralized way.
 
-## Fees
+## Platform Fees
 
 Understanding the fee structure is essential for participating in Quests. Below is how fees are applied:
 
