@@ -39,7 +39,21 @@ Defining virtual stake is straightforward. It requires the defined `manager` add
 
 Users will be able to view their virtual stake in the Earn Portal.
 
-# Platform Fees
+## Staked Amounts as Voting Power
+
+To enable voting with staked tokens, plug the staking smart contract into your DAO.
+
+1. Start a new proposal in your DAO.
+2. Attach a [Contract Call](./actions.md#call-contract) Action of type **setPlug**.
+3. Configure the action:
+   - **Address**: `erd1qqqqqqqqqqqqqpgqjhn0rrta3hceyguqlmkqgklxc0eh0r5rl3tsv6a9k0` (staking contract address)
+   - **[Quorum](./settings.md#minimum-attendance)**: Minimum FOR votes required for success.
+   - **[Min Propose Weight](./settings.md#minimum-to-propose)**: Minimum stake needed to create proposals.
+4. Create and execute the proposal.
+
+Done. Members can now vote using their staked tokens.
+
+## Platform Fees
 
 Understanding the fee structure is essential for participating in the Team Distributions module. Below is how fees are applied:
 
