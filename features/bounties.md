@@ -8,11 +8,11 @@ By setting up a Quest, the Teams can incentivize the successful completion of ta
 
 ## Modes of Quests
 
-Quests operate under three different modes to cater to various needs and scenarios:
+Quests operate in three modes to suit various needs:
 
-1. **Assignments**: In this mode, tasks are directly assigned to specific peers. This is best suited for straightforward tasks where the Teams has identified peers who are suitable for the task.
-2. **Matchmaking**: This mode provides flexibility by enabling peers to apply for tasks. The Teams can then choose from a pool of applicants, making it ideal for tasks requiring specific skills or when the Teams wants to explore untapped talents within the community.
-3. **Competitions**: This mode stimulates a competitive environment where multiple peers vie for task completion. Rewards are distributed to the peer or peers who perform the best. This mode fosters innovation, creativity, and instills a healthy competitive spirit among peers.
+1. **Assignments**: The Team assigns tasks to selected users. Users submit work, and the Team finalizes fund distribution.
+2. **Matchmaking**: Any user can apply. The Team selects participants to start the bounty. Users submit work, and the Team finalizes fund distribution.
+3. **Competitions**: Open to all users. After receiving sufficient submissions, the Team selects winners and finalizes fund distribution.
 
 ## How to Use Quests
 
