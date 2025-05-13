@@ -45,6 +45,6 @@ Understanding the fee structure is essential for participating in Quests. Below 
 
 - **Reduced Fee for Boosted Teams**: For Teams boosted to Level Two, the fee is reduced to 2%.
 
-- **Withdraw Fee for Incomplete Bounties**: A minimal fee of 0.05% is charged if a bounty is withdrawn before completion.
+- **Withdraw Fee for Incomplete Bounties**: A minimal fee of 1% is charged if a bounty is withdrawn before completion.
 
 These fee structures are put in place to maintain a robust and sustainable ecosystem that rewards contribution and participation effectively.
